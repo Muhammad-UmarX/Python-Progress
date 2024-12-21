@@ -1,0 +1,1 @@
+print("This statement is displayed with the help of print function")
